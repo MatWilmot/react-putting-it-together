@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-putting-it-together/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-putting-it-together/static/js/main.0acffb0e.chunk.js",
+    "main.js.map": "/react-putting-it-together/static/js/main.0acffb0e.chunk.js.map",
+    "runtime-main.js": "/react-putting-it-together/static/js/runtime-main.9a6a05ac.js",
+    "runtime-main.js.map": "/react-putting-it-together/static/js/runtime-main.9a6a05ac.js.map",
+    "static/js/2.00031600.chunk.js": "/react-putting-it-together/static/js/2.00031600.chunk.js",
+    "static/js/2.00031600.chunk.js.map": "/react-putting-it-together/static/js/2.00031600.chunk.js.map",
+    "index.html": "/react-putting-it-together/index.html",
+    "precache-manifest.c6d87df1d90fdbb2bdc65c203bf7ea4d.js": "/react-putting-it-together/precache-manifest.c6d87df1d90fdbb2bdc65c203bf7ea4d.js",
+    "service-worker.js": "/react-putting-it-together/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-putting-it-together/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.00031600.chunk.js.LICENSE.txt": "/react-putting-it-together/static/js/2.00031600.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-putting-it-together/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a6a05ac.js",
+    "static/js/2.00031600.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0acffb0e.chunk.js"
+  ]
+}
